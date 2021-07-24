@@ -1,3 +1,4 @@
+![2021-07-23](https://user-images.githubusercontent.com/85529623/126851570-c416c11e-8638-490d-82a9-ecbbd9f43a3b.png)
 # Day-Planner
 Homework 5: Work day scheduler
 the daily schedule planner is an easy to use planner for the everday busy person.
